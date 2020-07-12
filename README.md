@@ -1,11 +1,10 @@
-Project Title
+ Predicting Immunization Drop-outs
 ==============================
 
-#### Walkthrough: [/reports](reports)
+#### Walkthrough: [/reports](main)
 
 
-Summarize project in 500 words...
-
+Although vaccination rates have increased globally over the last twenty years - largely due to efforts to ensure vaccines are stocked at convenient points of care even in remote locations - they have plateaued in the last decade. This is largely attributable to children who drop out of their vaccination schedule, i.e. do not receive all of their required vaccines, despite access. In this project, I used data on patient profiles and vaccination histories to train a model that will predict patients at-risk of dropping out of their vaccination schedules. This model is useful in determining which patients will need early intervention to ensure they receive all their vaccinations. This project involved cleaning messy and limited tabular data and feature engineering. The final model trained was a random forests model and the accuracy achieved was XX%.
 
 Project Organization
 ------------
@@ -25,6 +24,7 @@ Project Organization
                               generated with `pip freeze > requirements.txt`
 
 Note: Jupyter notebooks naming convention is a number (for ordering), and a short `-` delimited description, e.g. `1.0-initial-data-exploration`.
+
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
