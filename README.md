@@ -1,7 +1,7 @@
 Predicting Immunization Drop-outs
 ==============================
 
-#### Walkthrough: [/reports](main/RabiyaNoori-PredictDropouts.ipynb)
+#### Walkthrough: report.ipynb
 
 Summary:
 Although vaccination rates have increased globally over the last twenty years - largely due to efforts to ensure vaccines are stocked at convenient points of care even in remote locations - they have plateaued in the last decade. This is largely attributable to children who drop out of their vaccination schedule, i.e. do not receive all of their required vaccines, despite access. In this project, I used data on patient profiles and vaccination histories to train a model that will predict patients at-risk of dropping out of their vaccination schedules. This model is useful in determining which patients will need early intervention to ensure they receive all their vaccinations. This project involved cleaning messy and limited tabular data and feature engineering. The final model trained was a random forests model and the accuracy achieved was XX%.
