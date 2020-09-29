@@ -1,4 +1,4 @@
- Predicting Immunization Drop-outs
+Predicting Immunization Drop-outs
 ==============================
 
 #### Walkthrough: [/reports](main/RabiyaNoori-PredictDropouts.ipynb)
@@ -6,7 +6,7 @@
 Summary:
 Although vaccination rates have increased globally over the last twenty years - largely due to efforts to ensure vaccines are stocked at convenient points of care even in remote locations - they have plateaued in the last decade. This is largely attributable to children who drop out of their vaccination schedule, i.e. do not receive all of their required vaccines, despite access. In this project, I used data on patient profiles and vaccination histories to train a model that will predict patients at-risk of dropping out of their vaccination schedules. This model is useful in determining which patients will need early intervention to ensure they receive all their vaccinations. This project involved cleaning messy and limited tabular data and feature engineering. The final model trained was a random forests model and the accuracy achieved was XX%.
 
-==============================
+---
 
 #### Problem Context:
 Although vaccination rates have increased globally over the last twenty years - largely due to efforts to ensure vaccines are stocked at convenient points of care even in remote locations - they have plateaued in the last decade. This is largely attributable to children who drop out of their vaccination schedule, i.e. do not receive all of their required vaccines,despiteaccess. In addition, delayed vaccination also puts many children at risk and often requires costly vaccination campaigns to resolve.
@@ -52,7 +52,7 @@ DTP (diphtheria, tetanus, pertussis):
 
 \* Although the final doses of these vaccines are supposed to occur just after 3 months, health care workers often allow a grace period of a few weeks to allow children who were slightly off schedule to catch up before followingup with children who are still unvaccinated. Therefore, we chose to use 4 months instead of 14 weeks as the initial cut-off.
 
-==============================
+---
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
