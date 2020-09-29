@@ -52,17 +52,7 @@ DTP (diphtheria, tetanus, pertussis):
 
 \* Although the final doses of these vaccines are supposed to occur just after 3 months, health care workers often allow a grace period of a few weeks to allow children who were slightly off schedule to catch up before followingup with children who are still unvaccinated. Therefore, we chose to use 4 months instead of 14 weeks as the initial cut-off.
 
-
-
-
-
-
-
-
-
-
-
-
+==============================
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
