@@ -35,7 +35,7 @@ ipython @ file:///opt/concourse/worker/volumes/live/7ea70a71-5624-4799-50b3-3b90
 ipython-genutils==0.2.0
 isort==4.3.21
 jedi==0.15.2
-Jinja2==2.11.2
+Jinja2==2.11.3
 jinja2-time==0.2.0
 jsonschema==3.2.0
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594163838128/work
